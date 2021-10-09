@@ -12,7 +12,7 @@ export const MenuButton = styled.TouchableOpacity`
     align-items: center;
     flex-direction: row;
 `;
-
+        
 export const Title = styled.Text`
     color:#fff;
     font-size: 30px;
