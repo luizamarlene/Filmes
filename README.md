@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
- <a href="#Tecnologias">Tecnologias</a> • 
+ <a href="Tecnologias">Tecnologias</a> • 
  <a href="Installation Steps">Instalação</a> 
 </p>
   
