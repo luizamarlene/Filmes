@@ -1,5 +1,5 @@
 ## React Prime
-<p align='center'>Aplicativo de filmes criado no workshop de React Native Insider 4.0 <img align='center' src='splash.png' width='200'/></p> 
+<p align='center'>Aplicativo de filmes criado no workshop de React Native Insider 4.0 <img align='center' src='2-removebg-preview.png' width='400'/></p> 
 
 ---
 
