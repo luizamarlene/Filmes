@@ -1,5 +1,5 @@
 ## React Prime
-Aplicativo de filmes criado no workshop de React Native Insider 4.0 utilizando expo 
+<p> Aplicativo de filmes criado no workshop de React Native Insider 4.0 utilizando expo <img src=''/> </p>
 
 ---
 
@@ -20,8 +20,10 @@ Aplicativo de filmes criado no workshop de React Native Insider 4.0 utilizando e
 
 ## 🛠️ Instalação
 
-Como o propósito do Expo é facilitar o setup, basta ter o NodeJS e o `expo-cli` instalado em sua máquina
+Como o propósito do Expo é facilitar o setup, basta ter o NodeJS e o `expo-cli` instalado em sua máquina:
+```bash
 `npm i -g expo-cli`
+ ```
 Em seguida é seguir os seguintes passos: 
 ```bash
 git clone https://github.com/luizamarlene/Filmes
