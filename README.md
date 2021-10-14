@@ -1,5 +1,8 @@
 ## React Prime
-<p> Aplicativo de filmes criado no workshop de React Native Insider 4.0 utilizando expo <img src='3-removebg-preview (1).png' width='100'/> <img src='4-removebg-preview.png' width='100'/> </p>
+<p align='center'> Aplicativo de filmes criado no workshop de React Native Insider 4.0 utilizando expo </p>
+<div display='inline' align='center'>
+<img src='3-removebg-preview (1).png' width='300'/> <img src='4-removebg-preview.png' width='300'/>
+</div>
 
 ---
 
